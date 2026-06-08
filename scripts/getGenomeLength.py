@@ -43,7 +43,7 @@ def countBases(fasta: str) -> None:
     ofh.close()
 
 def main() -> int:
-    """Parse, plot, and pray for good results"""
+    """entry points to the small application"""
 
     # get arguments
     fasta = get_arguments()

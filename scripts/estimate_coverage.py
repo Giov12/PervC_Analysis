@@ -119,7 +119,7 @@ def slide_window(depth_file: str, wsize: int) -> None:
 
 
 def main() -> int:
-    """Parse, plot, and pray for good results"""
+    """entry point for the small application"""
 
     # get arguments
     dfile, wsize = get_arguments()
