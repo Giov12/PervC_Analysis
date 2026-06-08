@@ -4,7 +4,7 @@ This repository contains helper scripts used in the study **[Genomic Validation 
 
 ## About the files
 The repo contains custom python scripts used when exploring the PacBio sequencing data produced in the study.
-Most of the analyses used published tools such as minimap2, samtools, and klumpy.
+Most of the analyses used published tools such as `minimap2`, `samtools`, and `klumpy`.
 
 ## Authors
 
