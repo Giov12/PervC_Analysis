@@ -19,7 +19,3 @@ gm33@illinois.edu
 If you use these scripts, please cite:
 
 > Benjamin, N. R., Madrigal, G., Ishida, Y., Catchen, J., Allen, K. L., Pepin, B., & Roca, A. L. (2026). Genomic Validation of PERV‐C‐Free Pigs to Support Xenotransplantation. Xenotransplantation, 33(1), e70109.
-
-## License
-
-MIT — see [LICENSE](LICENSE) for details.
