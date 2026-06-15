@@ -2,10 +2,7 @@
 
 import argparse
 import os
-import sys
 import gzip
-from   collections import defaultdict
-
 
 def get_arguments() -> str:
     """get the arguments"""
