@@ -8,9 +8,9 @@ Most of the analyses used published tools such as `minimap2`, `samtools`, and `k
 
 ## Authors
 
-**Gio Madrigal**
-Department of Evolution, Ecology, and Behavior
-University of Illinois Urbana-Champaign, Urbana, IL
+**Gio Madrigal**<br>
+Department of Evolution, Ecology, and Behavior<br>
+University of Illinois Urbana-Champaign, Urbana, IL<br>
 gm33@illinois.edu
 
 
